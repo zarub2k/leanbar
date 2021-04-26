@@ -1,5 +1,5 @@
 <template>
-  <div class="flex p-2 border border-gray-200">
+  <div class="flex p-2 border-2 border-gray-200">
     <div class="flex-none w-64 mt-1">
       <router-link to="/">
         <img class="w-32 h-32 md:w-32 md:h-auto md:rounded-none rounded-full mx-auto"
