@@ -2,7 +2,7 @@
   <section class="p-4">
     <div class="bg-gradient-to-r from-green-400 to-blue-500 h-auto py-4">
       <p class="text-white text-2xl">
-        View all APIs or sort to find the APIs that meet your specific needs.
+        Find the right APIs that meet your business needs.
       </p>
       <p class="mt-2">
         <input type="text" placeholder="Enter keyword..." class="w-1/3 p-2"/>
